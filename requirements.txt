@@ -1,0 +1,7 @@
+# Dependencies for running the Gemini API quickstart notebooks locally.
+google-genai>=1.7.0
+
+# Tooling to run/execute the .ipynb quickstarts outside of Google Colab.
+jupyter
+nbconvert
+ipython
